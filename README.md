@@ -1,2 +1,3 @@
 # tracer
-A simple go tracer
+A simple tracer for GoLang
+
